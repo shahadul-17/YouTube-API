@@ -8,3 +8,9 @@ D:\Programming\Visual Studio Projects\ytapi\ytapi\bin\Release\YouTube-API-master
 D:\Programming\Visual Studio Projects\ytapi\ytapi\bin\Release\YouTube-API-master\Example\YouTube API Example\bin\Debug\ytapi.dll
 D:\Programming\Visual Studio Projects\ytapi\ytapi\bin\Release\YouTube-API-master\Example\YouTube API Example\obj\x86\Debug\YouTube API Example.exe
 D:\Programming\Visual Studio Projects\ytapi\ytapi\bin\Release\YouTube-API-master\Example\YouTube API Example\obj\x86\Debug\YouTube API Example.pdb
+D:\Programming\GitHub Repositories\YouTube-API\Example\YouTube API Example\obj\x86\Debug\YouTube API Example.exe
+D:\Programming\GitHub Repositories\YouTube-API\Example\YouTube API Example\obj\x86\Debug\YouTube API Example.pdb
+D:\Programming\GitHub Repositories\YouTube-API\Example\YouTube API Example\bin\Debug\YouTube API Example.exe
+D:\Programming\GitHub Repositories\YouTube-API\Example\YouTube API Example\bin\Debug\YouTube API Example.pdb
+D:\Programming\GitHub Repositories\YouTube-API\Example\YouTube API Example\bin\Debug\ytapi.dll
+D:\Programming\GitHub Repositories\YouTube-API\Example\YouTube API Example\obj\x86\Debug\YouTube API Example.csprojResolveAssemblyReference.cache
